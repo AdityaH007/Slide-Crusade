@@ -37,9 +37,9 @@ Interested in contributing? We welcome your suggestions and pull requests!
 
 
 ---
-![Cover]([screenshots/screenshot1.png](https://i.ibb.co/r6hDWJz/SLIDE.png))
-![Screenshot 1]([screenshots/screenshot2.png](https://i.ibb.co/5W1SDBM/Screenshot-2024-03-04-203235.png))
-![Screenshot 2]([screenshots/screenshot2.png](https://i.ibb.co/fX5j2d4/Screenshot-2024-03-04-203333.png))
+![Cover](https://i.ibb.co/r6hDWJz/SLIDE.png)
+![Screenshot 1](https://i.ibb.co/5W1SDBM/Screenshot-2024-03-04-203235.png))
+![Screenshot 2](https://i.ibb.co/fX5j2d4/Screenshot-2024-03-04-203333.png))
 
 
 Get ready for a thrilling sliding adventure in **Slide Crusade** – where every move counts, and triumph awaits those who master the art of precision! Can you conquer the challenge and become the ultimate slider?
